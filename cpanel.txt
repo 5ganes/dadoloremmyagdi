@@ -1,0 +1,11 @@
+cphanel
+username: dadomyagdigov
+password: %pvFanm&xQb0
+
+Database
+username: dadomyag_di
+password: %pvFanm&xQb0
+
+Admin:
+username: admin
+password: magdi123

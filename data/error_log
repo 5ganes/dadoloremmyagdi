@@ -1,0 +1,95 @@
+[07-Oct-2015 10:18:54 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[07-Oct-2015 10:18:54 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[07-Oct-2015 10:18:54 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[07-Oct-2015 10:19:06 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[07-Oct-2015 10:19:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[07-Oct-2015 10:19:06 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[07-Oct-2015 10:43:08 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[07-Oct-2015 10:43:08 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[07-Oct-2015 10:43:08 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[07-Oct-2015 10:43:08 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[07-Oct-2015 10:43:08 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:54 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:54 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[30-Jun-2016 08:09:54 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[30-Jun-2016 08:09:54 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[30-Jun-2016 08:09:54 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[30-Jun-2016 08:09:55 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 73
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 74
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 94
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dadomyagdigov/public_html/data/imager.php on line 100
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 102
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 104
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 106
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 73
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 74
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 94
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dadomyagdigov/public_html/data/imager.php on line 100
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 102
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 104
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 106
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[30-Jun-2016 08:09:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 73
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 74
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 94
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dadomyagdigov/public_html/data/imager.php on line 100
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 102
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 104
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 106
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 30
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 61
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 69
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 73
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 74
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 94
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dadomyagdigov/public_html/data/imager.php on line 100
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 102
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 104
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:57 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 106
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 73
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 74
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 94
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dadomyagdigov/public_html/data/imager.php on line 100
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 102
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 104
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 106
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 17
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 73
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  Division by zero in /home/dadomyagdigov/public_html/data/imager.php on line 74
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomyagdigov/public_html/data/imager.php on line 94
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/dadomyagdigov/public_html/data/imager.php on line 100
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 102
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 104
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 105
+[30-Jun-2016 08:09:58 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/imager.php on line 106
