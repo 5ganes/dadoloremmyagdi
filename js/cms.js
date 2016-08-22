@@ -27,7 +27,7 @@ function addImage()
 	newDiv = document.createElement("div");
 	
 	str = "<div style='width:100px; float: left;'>Image : </div><div style='float:left;'>";
-	str += "<input type='file' name='galimage[]' class='file' /> ( Image Size: 960*350 )</div><br style='clear: both;'>";
+	str += "<input type='file' name='galimage[]' class='file' /></div><br style='clear: both;'>";
 	str += "<div style='width:100px; float: left;'>Caption : </div>";
 	str += "<div style='float:left;'><input type='text' name='imageCaption[]' class='text' /></div>";
 	str += "<hr style='clear: both;'>";
@@ -57,7 +57,7 @@ function addVideo()
 	newDiv = document.createElement("div");
 	
 	str = "<div style=''>Link : </div>";
-	str += "<div style='float:left; padding-bottom:5px;'><textarea name='videoUrl[]' rows='4' cols='110'></textarea></div>";
+	str += "<div style='float:left; padding-bottom:5px;'><textarea name='videoUrl[]' rows='4' cols='100'></textarea></div>";
 	str += "<hr style='clear: both;'>";
 
 	newDiv.innerHTML = str;
@@ -100,6 +100,28 @@ function getAndPut(url, intoDiv)
 		if (xmlHttp.readyState==4)
 		{ 
 			intoDiv.innerHTML = xmlHttp.responseText;
+			CKEDITOR.replace('shortcontents');
+			// CKEDITOR.replace('shortcontentsen', { toolbar: 'basic' });
+			CKEDITOR.replace( 'contents');
+			// CKEDITOR.replace( 'contentsen' );
+		}
+	};
+	xmlHttp.open("GET",url,true);
+
+	xmlHttp.send(null);
+}
+
+function getAndPutList(url, intoDiv)
+{
+	xmlHttp = GetXmlHttpObject();
+	
+	xmlHttp.onreadystatechange=function()
+	{
+		if (xmlHttp.readyState==4)
+		{ 
+			intoDiv.innerHTML = xmlHttp.responseText;
+			//CKEDITOR.replace( 'shortcontents');
+			CKEDITOR.replace( 'listDescription' );
 		}
 	};
 	xmlHttp.open("GET",url,true);
@@ -153,7 +175,7 @@ function changeLinkType(sbox)
 	{
 		document.getElementById('pageDetails').style.display = 'block';
 		
-		myDiv = document.getElementById('normalGroupDiv');
+		myDiv = document.getElementById('fckEditor');
 		myDiv.style.display = 'block';
 		
 		document.getElementById('displaytype').style.display = 'block';
@@ -211,7 +233,7 @@ function changeLinkType(sbox)
 
 		myDiv.style.display = 'block';
 
-		getAndPut("ajaxListingPanel.php", myDiv);
+		getAndPutList("ajaxListingPanel.php", myDiv);
 
 		//document.getElementById('contentsLabel').innerHTML = 'Create your gallery';
 	}
