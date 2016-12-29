@@ -112,3 +112,4 @@ class Testimonials
 		return $conn -> affRows();
 	}	
 }
+?>

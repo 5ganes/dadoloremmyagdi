@@ -42,3 +42,4 @@ class Feedbacks
 		return $row;
 	}
 }
+?>

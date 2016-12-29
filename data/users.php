@@ -344,5 +344,7 @@ class Users
 		$result = $conn->exec($sql);
 		return $result;
 	}
-		
+	
+	
 }
+?>

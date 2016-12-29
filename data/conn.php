@@ -13,11 +13,6 @@
 			$this->uname = "root"; 		
 			$this->psw = "";					
 			$this->dbname = "dadomyagdi";
-
-			// $this->host = "localhost";
-			// $this->uname = "dadomyag_di"; 		
-			// $this->psw = "%pvFanm&xQb0";					
-			// $this->dbname = "dadomyag_di";
 			
 			$this->links = mysql_connect($this->host,$this->uname,$this->psw) or die("Sorry, couldnot connect to MySQL Server");
 			$this->db = mysql_select_db($this->dbname,$this->links) or die("Sorry, couldnot find database");	
@@ -98,3 +93,4 @@
 			mysql_close($this->links);
 		}			
 	}	//Dbconn ends
+?>

@@ -22,3 +22,8 @@
 [19-Dec-2015 13:58:56 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
 [27-Dec-2015 03:54:09 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
 [27-Dec-2015 03:54:09 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Aug-2016 05:26:19 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadomyagdigov/public_html/admin/cms.php on line 134
+[15-Aug-2016 08:01:33 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadomyagdigov/public_html/admin/cms.php on line 134
+[29-Aug-2016 07:35:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dadomyagdigov/public_html/data/conn.php on line 58
+[26-Sep-2016 08:16:42 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadomyagdigov/public_html/admin/manage_cms.php on line 258
+[26-Sep-2016 08:16:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadomyagdigov/public_html/admin/manage_cms.php:258) in /home/dadomyagdigov/public_html/admin/manage_cms.php on line 307

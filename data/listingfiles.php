@@ -60,3 +60,4 @@ class ListingFiles
 	return $row['total'];
  }
 }
+?>

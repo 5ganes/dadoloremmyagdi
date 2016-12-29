@@ -31,7 +31,8 @@ define("CONTACT", 234);
 define("LINKS",366);
 define("MESSAGE", 274);
 define("PUBLICATIONS", 338);
-define("VIDEO_GALLERY", 436);
+
+define("VIDEO_GALLERY", 421);
 
 ///////////////GENERAL CLIENT SIDE CONSTANTS///////////////////
 

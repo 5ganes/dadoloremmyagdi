@@ -1,6 +1,6 @@
 <?php
 session_start();
-// error_reporting(E_ERROR);
+error_reporting(E_ERROR);
 ini_set("register_globals", "off");
 ini_set("upload_max_filesize", "20M");
 ini_set("post_max_size", "40M");
@@ -13,6 +13,7 @@ require_once("data/listingfiles.php");
 require_once("data/testimonials.php");
 require_once("data/feedbacks.php");
 
+
 $conn 					= new Dbconn();		
 $users	 				= new Users();
 $groups					= new Groups();
@@ -24,11 +25,9 @@ require_once("data/constants.php");
 require_once("data/sqlinjection.php");
 require_once("data/youtubeimagegrabber.php");
 
+
 include("includes/feedbackprocess.php");
 include("includes/testimonialprocess.php");
-
-////////////////////////////////////////////////
-include("menufunction.php");
 
 ///////////////////////////////////////////////
 
@@ -68,8 +67,13 @@ if (!empty($query)) {
 	}
 }
 
+include("menufunction.php");
+
+
+
 
 ///////////////IMAGE CALL IMAGER FUNCTION //////////////////////////////
+
 
 function imager($source, $width, $height, $fix="")
 {
@@ -78,3 +82,4 @@ function imager($source, $width, $height, $fix="")
 		$str .= '&amp;fix';		
 	return $str;
 }
+?>
